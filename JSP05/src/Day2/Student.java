@@ -45,11 +45,10 @@ public class Student {
 	public String gender;
 	
 	public Student(String name, String gender, int age) {
-		this.name = name; //thuá»™c tÃ­nh cá»§a nÃ³ this.name báº±ng giÃ¡ trá»‹ nÃ³ truyá»�n vÃ o contrustor
-		this.gender = gender;
+		this.name = name; 
 		this.age = age;
 	}
-	//khai bÃ¡o trong hÃ m main
+	
 
 	public String getName() {
 		return name;

@@ -6,7 +6,7 @@ import java.sql.SQLException;
 public class ConnectionUtils {
 	public static Connection getMyConnection() throws ClassNotFoundException, SQLException{
 		String hostName = "localhost";
-		String dbName = "19jsp05";
+		String dbName = "24h";
 		String userName = "root";
 		String password = "nkh24288";
 		
