@@ -1,0 +1,34 @@
+form{
+	border: 1px solid #3cb371;
+	margin: 30px 300px 10px 300px;
+	padding: 0px 20px 20px 20px;
+}
+
+input[type=text], input[type=password]{
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0px;
+	display: inline-block;
+	border: 1px solid #ccc;
+	box-sizing: border-box;
+}
+
+button{
+	background-color: #3cb371;
+	color: white;
+	padding: 14px 20px;
+	margin: 8px 0px;
+	border: none;
+	cursor: pointer;
+	width: 100%;
+}
+
+.imgcontainer{
+	text-align: center;
+	margin: 24px 0 12px 0;
+}
+
+.usericon{
+	width: 40%;
+	border-radius: 50%;
+}

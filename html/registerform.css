@@ -1,0 +1,33 @@
+form{
+	border: 1px solid #3cb371;
+	margin: 0px 300px 0px 300px;
+	padding: 10px 20px 20px 20px;
+}
+
+#register{
+	font-size: 150%;
+}
+
+.container{
+	margin: 20px 0 10px 0;
+}
+
+button{
+	background-color: #3cb371;
+	color: white;
+	padding: 14px 20px;
+	margin: 8px 0px;
+	border: none;
+	cursor: pointer;
+	width: 100%;
+}
+
+input[type=Email], input[type=Password]{
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0px;
+	display: inline-block;
+	background: #D8D8D8;
+	border: 1px solid #D8D8D8;
+	box-sizing: border-box;
+}
